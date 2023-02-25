@@ -10,7 +10,7 @@ export default function Home() {
         <title>Yusuke Kaga Portfolio</title>
       </Head>
 
-      <h1>Let's build portfolio</h1>
+      <h1 className='text-red-500'>Let's build portfolio</h1>
     </div>
   )
 }
